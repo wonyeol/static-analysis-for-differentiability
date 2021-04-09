@@ -1,1 +1,6 @@
 *~
+*.exe
+_build
+model_*.py
+guide_*.py
+.DS_Store
