@@ -1,5 +1,7 @@
 # Static Analysis for Differentiability
 
+### Overview
+
 The static analyser implemented in `diffai/` performs the following tasks:
 
 - Verify the differentiability, and the local Lipschitz continuity, of a given Pyro/Python program.
